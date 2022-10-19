@@ -37,5 +37,7 @@ html {
 
 /* Style your grid here */
 #grid {
-    
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr ;
+    grid-template-rows: 200px 300px 200px;
 }
